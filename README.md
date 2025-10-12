@@ -11,31 +11,35 @@
 </p>
 
 ---
-
-<h2>A Little Bit About Me & My Interests</h2>
-
-```yaml
-name: Arushi Malhotra
-building: Code Social Community
-lookingFor: (internships(2025))
-education:
-[
-"Currently Pursuing: Masters in Computer Science",
-          {from: DePaul University}
-"Completed: Bachelors of Computer Applications (Hons.)"
-]
-
-fields_of_interests:
-[
-"Software Development",
-"Content",
-"Community"
-]
-
-currently_learning: ["Bubble AI, Web3"];
-current_project: "An accountability web app with Bubble AI";
 ```
 
+name: Arushi Malhotra
+building: Code Social Community
+lookingFor: (internships(2026))
+
+education:
+  [
+    "Currently Pursuing: Masters in Computer Science",
+    "{from: DePaul University}",
+    "Completed: Bachelors of Computer Applications (Hons.)"
+  ]
+
+working:
+  [
+    "GTM Engineer Intern @ChaChing Social",
+  ]
+
+fields_of_interests:
+  [
+    "Software Development",
+    "Content",
+    "Community"
+  ]
+
+currently_learning: ["Data Analysis", "RSS"]
+current_project: "An app to find scholarships and fellowship opportunities."
+
+```
 ---
 
 <h2> &nbsp; Some Tools I Have Used & Learned</h2>
